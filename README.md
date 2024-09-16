@@ -1,14 +1,13 @@
 # E-Commerce Product Page
 
-This is a simple e-commerce product page built using **React**, **JavaScript**, **HTML**, and **CSS**. It provides a learning opportunity for developers by intentionally introducing bugs and challenges that need to be fixed to create a fully functioning product page.
+This is a simple e-commerce product page built using **React**, **JavaScript**, **HTML**, and **CSS**. It provides a learning opportunity for developers by intentionally introducing bugs and challenges that need to be fixed to create a fully functioning prodcut page.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Setup Instructions](#setup-instructions)
 3. [Project Structure](#project-structure)
-4. [Bugs/Challenges](#bugs-challenges)
-5. [Learning Goals](#learning-goals)
-6. [License](#license)
+4. [Learning Goals](#learning-goals)
+5. [License](#license)
 
 ---
 
@@ -16,10 +15,10 @@ This is a simple e-commerce product page built using **React**, **JavaScript**, 
 
 This project simulates an e-commerce product page where users can:
 - View products with details like name, price, and image.
-- Add items to their shopping cart.
+- Add items to thier shopping cart.
 - Update the quantity of items in the cart.
   
-However, the project contains **intentional bugs** that provide a good learning opportunity for new developers. Debugging these will help you improve your problem-solving, DOM manipulation, and responsive design skills.
+However, the project contains **intentional bugs** that provide a good learning opportunity for new developers. Debugging these will hlep you improve your problem-solving, DOM manipulation, and responsive desgn skills.
 
 ---
 
@@ -63,13 +62,13 @@ ecommerce-product-page/
 │   │   ├── Cart.js          # Component for displaying the shopping cart
 │   │
 │   ├── App.js               # Main app component
-│   ├── index.js             # Entry point for the app
+│   ├── index.js             # Entry piont for the app
 │   ├── styles.css           # Styling for the components
 │
 ├── package.json             # Project configuration and dependencies
 └── README.md                # Documentation for the project
 
-
+```
 ---
 
 ## License
