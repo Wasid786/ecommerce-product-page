@@ -6,8 +6,7 @@ This is a simple e-commerce product page built using **React**, **JavaScript**, 
 1. [Project Overview](#project-overview)
 2. [Setup Instructions](#setup-instructions)
 3. [Project Structure](#project-structure)
-4. [Learning Goals](#learning-goals)
-5. [License](#license)
+4. [License](#license)
 
 ---
 
