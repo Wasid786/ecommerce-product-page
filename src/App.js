@@ -26,7 +26,6 @@ function App() {
         let updatedCart = [...cart];
         const productIndex = updatedCart.findIndex(item => item.id === product.id);
 
-        // Bug: Add to cart doesn't work properly, doesn't update the quantity correctly
         if (productIndex !== -1) {
             updatedCart[productIndex].quantity += 1;
         } else {
@@ -40,7 +39,6 @@ function App() {
         let updatedCart = [...cart];
         const productIndex = updatedCart.findIndex(item => item.id === productId);
 
-        // Bug: The price display doesn't update correctly when the quantity changes
         if (productIndex !== -1 && quantity > 0) {
             updatedCart[productIndex].quantity = quantity;
             setCart(updatedCart);

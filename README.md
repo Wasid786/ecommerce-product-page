@@ -68,3 +68,12 @@ ecommerce-product-page/
 │
 ├── package.json             # Project configuration and dependencies
 └── README.md                # Documentation for the project
+
+
+---
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code.
+
+---
